@@ -1,0 +1,97 @@
+Well,Bacteria,Treatment,Phage,Status
+A1,REL606,cI26,cI26,Ancestor
+B1,REL606,cI26,cI26-P1-T3,Contemporary
+C1,P1-T3-2-R,cI26,cI26,Ancestor
+D1,P1-T3-2-R,cI26,cI26,Ancestor
+E1,P1-T3-2-R,cI26,cI26,Ancestor
+F1,P1-T3-2-R,cI26,cI26-P1-T3,Contemporary
+G1,P1-T3-2-R,cI26,cI26-P1-T3,Contemporary
+H1,P1-T3-2-R,cI26,cI26-P1-T3,Contemporary
+A2,REL606,2811,2811,Ancestor
+B2,REL606,cI26,cI26-P2-T3,Contemporary
+C2,P2-T3-1-R,cI26,cI26,Ancestor
+D2,P2-T3-1-R,cI26,cI26,Ancestor
+E2,P2-T3-1-R,cI26,cI26,Ancestor
+F2,P2-T3-1-R,cI26,cI26-P2-T3,Contemporary
+G2,P2-T3-1-R,cI26,cI26-P2-T3,Contemporary
+H2,P2-T3-1-R,cI26,cI26-P2-T3,Contemporary
+A3,Blank,cI26,Blank,Blank
+B3,REL606,cI26,cI26-P3-T3,Contemporary
+C3,P3-T3-1-R,cI26,cI26,Ancestor
+D3,P3-T3-1-R,cI26,cI26,Ancestor
+E3,P3-T3-1-R,cI26,cI26,Ancestor
+F3,P3-T3-1-R,cI26,cI26-P3-T3,Contemporary
+G3,P3-T3-1-R,cI26,cI26-P3-T3,Contemporary
+H3,P3-T3-1-R,cI26,cI26-P3-T3,Contemporary
+A4,Blank,cI26,Blank,Blank
+B4,REL606,cI26,cI26+ P1 T8,Future
+C4,P1-T3-2-R,cI26,cI26,Ancestor
+D4,P1-T3-2-R,cI26,cI26,Ancestor
+E4,P1-T3-2-R,cI26,cI26,Ancestor
+F4,P1-T3-2-R,cI26,cI26+ P1 T8,Future
+G4,P1-T3-2-R,cI26,cI26+ P1 T8,Future
+H4,P1-T3-2-R,cI26,cI26+ P1 T8,Future
+A5,Blank,cI26,Blank,Blank
+B5,REL606,cI26,cI26+ P2 T8,Future
+C5,P2-T3-1-R,cI26,cI26,Ancestor
+D5,P2-T3-1-R,cI26,cI26,Ancestor
+E5,P2-T3-1-R,cI26,cI26,Ancestor
+F5,P2-T3-1-R,cI26,cI26+ P2 T8,Future
+G5,P2-T3-1-R,cI26,cI26+ P2 T8,Future
+H5,P2-T3-1-R,cI26,cI26+ P2 T8,Future
+A6,Blank,cI26,Blank,Blank
+B6,REL606,cI26,cI26+ P3 T8,Future
+C6,P3-T3-1-R,cI26,cI26,Ancestor
+D6,P3-T3-1-R,cI26,cI26,Ancestor
+E6,P3-T3-1-R,cI26,cI26,Ancestor
+F6,P3-T3-1-R,cI26,cI26+ P3 T8,Future
+G6,P3-T3-1-R,cI26,cI26+ P3 T8,Future
+H6,P3-T3-1-R,cI26,cI26+ P3 T8,Future
+A7,Blank,2811,Blank,Blank
+B7,REL606,2811,2811+ P1 T25,Contemporary
+C7,2 P1 T25,2811,2811,Ancestor
+D7,2 P1 T25,2811,2811,Ancestor
+E7,2 P1 T25,2811,2811,Ancestor
+F7,2 P1 T25,2811,2811+ P1 T25,Contemporary
+G7,2 P1 T25,2811,2811+ P1 T25,Contemporary
+H7,2 P1 T25,2811,2811+ P1 T25,Contemporary
+A8,Blank,2811,Blank,Blank
+B8,REL606,2811,2811+ P2 T15,Contemporary
+C8,2 P2 T15,2811,2811,Ancestor
+D8,2 P2 T15,2811,2811,Ancestor
+E8,2 P2 T15,2811,2811,Ancestor
+F8,2 P2 T15,2811,2811+ P2 T15,Contemporary
+G8,2 P2 T15,2811,2811+ P2 T15,Contemporary
+H8,2 P2 T15,2811,2811+ P2 T15,Contemporary
+A9,Blank,2811,Blank,Blank
+B9,REL606,2811,2811+ P3 T5,Contemporary
+C9,2 P3 T5,2811,2811,Ancestor
+D9,2 P3 T5,2811,2811,Ancestor
+E9,2 P3 T5,2811,2811,Ancestor
+F9,2 P3 T5,2811,2811+ P3 T5,Contemporary
+G9,2 P3 T5,2811,2811+ P3 T5,Contemporary
+H9,2 P3 T5,2811,2811+ P3 T5,Contemporary
+A10,Blank,2811,Blank,Blank
+B10,REL606,2811,2811+ P1 T30,Future
+C10,2 P1 T25,2811,2811,Ancestor
+D10,2 P1 T25,2811,2811,Ancestor
+E10,2 P1 T25,2811,2811,Ancestor
+F10,2 P1 T25,2811,2811+ P1 T30,Future
+G10,2 P1 T25,2811,2811+ P1 T30,Future
+H10,2 P1 T25,2811,2811+ P1 T30,Future
+A11,Blank,2811,Blank,Blank
+B11,REL606,2811,2811+ P2 T20,Future
+C11,2 P2 T15,2811,2811,Ancestor
+D11,2 P2 T15,2811,2811,Ancestor
+E11,2 P2 T15,2811,2811,Ancestor
+F11,2 P2 T15,2811,2811+ P2 T20,Future
+G11,2 P2 T15,2811,2811+ P2 T20,Future
+H11,2 P2 T15,2811,2811+ P2 T20,Future
+A12,Blank,2811,Blank,Blank
+B12,REL606,2811,2811+ P3 T10,Future
+C12,2 P3 T5,2811,2811,Ancestor
+D12,2 P3 T5,2811,2811,Ancestor
+E12,2 P3 T5,2811,2811,Ancestor
+F12,2 P3 T5,2811,2811+ P3 T10,Future
+G12,2 P3 T5,2811,2811+ P3 T10,Future
+H12,2 P3 T5,2811,2811+ P3 T10,Future
